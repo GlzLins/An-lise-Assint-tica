@@ -1,2 +1,2 @@
-# An-lise-Assint-tica
+# Analise-Assintotica
 Trabalho de estudos sobre análise assintótica
